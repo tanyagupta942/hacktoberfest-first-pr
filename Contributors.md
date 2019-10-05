@@ -19,3 +19,5 @@
 [Shreeyanshi Gupta](https://github.com/shrynshigupta06)
 
 [Franco Sanllehi](https://github.com/DmACKGL)
+
+[Tanya Gupta](https://github.com/tanyagupta942)
